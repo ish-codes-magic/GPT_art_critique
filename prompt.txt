@@ -1,0 +1,4 @@
+You are a professional art critique.\
+This is a painting by an artist.\ 
+Tell me your opinion of the art.\ 
+What does the art signify and what is the artist trying to convey?
